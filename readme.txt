@@ -4,8 +4,5 @@ Git tracks changes of files.
 I have a stupid boss.
 creating brach is quick.
 try once more on branch.
-<<<<<<< HEAD
 Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick and simple.
->>>>>>> feature1
+try no off.
